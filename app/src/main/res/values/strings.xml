@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">substory</string>
+    <string name="email_required">email required</string>
+    <string name="invalid_email">invalid email</string>
+    <string name="password_required">password required</string>
+    <string name="pass_length">Minimal 8 karakter</string>
+    <string name="title_login_page">LOGIN</string>
+    <string name="message_login_page">Masuk atau daftar dahulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="camera_x">CAMERA X</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+    <string name="upload">UPLOAD</string>
+    <string name="story_photo">DetailStory</string>
+    <string name="icon_user">Name</string>
+    <string name="title_signup_page">Lengkapi datamu</string>
+    <string name="name">Nama</string>
+    <string name="signup">Daftar</string>
+    <string name="title_welcome_page">Selamat datang di SubStory</string>
+    <string name="message_welcome_page">Masuk atau daftar terlebih dahulu</string>
+</resources>
